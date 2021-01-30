@@ -17,7 +17,7 @@ This project, covers the following three questions using Seattle Airbnb data:
 ## Files Description
 
 There is one notebook available here to address the questions above.
-This notebook can be visualzed via NBViewer.
+This notebook can be visualzed via [NBViewer](https://nbviewer.jupyter.org/github/oliveirampo/airbnb_seatle/blob/main/run.ipynb).
 
 Auxiliary scripts are found under src/ directory.
 
