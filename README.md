@@ -1,4 +1,4 @@
-# airbnb_seatle
+README.md
 
 ## Installation
 
@@ -29,7 +29,7 @@ The main findings of the code can be found at the post available here.
 
 ## Licensing, Authors, Acknowledgements
 
-Credit to Airbnb for providing the data
+Credit to Airbnb for providing the data,
 and to [Taylor Plumer github](https://github.com/taylorplumer/seattle-airbnb) which worked as a template.
 Licensing information can be found at the [Kaggle](https://www.kaggle.com/airbnb/seattle)
 page and the original source from [Airbnb Inside](http://insideairbnb.com/get-the-data.html).
