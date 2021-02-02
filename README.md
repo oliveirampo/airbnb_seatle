@@ -25,7 +25,7 @@ The input data (listings_detailed.csv) is under the inp/ directory.
 This file was downloaded from Kaggle.
 
 ## Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://pereira-oliveira.medium.com/analyzing-airbnb-dataset-the-seattle-case-c788d8f22985).
 
 ## Licensing, Authors, Acknowledgements
 
