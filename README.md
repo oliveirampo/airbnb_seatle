@@ -8,7 +8,7 @@ The additional packages are plotly and orca.
 
 ## Project Motivation
 
-This project, covers the following three questions using Seattle Airbnb data:
+This project covers the following three questions using Seattle Airbnb data:
 
   1. What are the distribution of listing prices by neighborhoods?
   2. How does the property type impact listing price on a neighborhood?
